@@ -3,7 +3,7 @@
 ### I am interested in mathematics and philosophy of mathematics.
 ### I’m currently learning Structuralism in the philosophy of mathematics.
 ### I’m also interested in the following topics: Functional Analysis, Equilibrium Problems and Fixed Point Theory.  
-### In other fields, I am interested in architecture, photography, playwriting, poetry and music.
+#### In other fields, I am interested in architecture, photography, playwriting, poetry and music.
 # CV
 ## Download English or persian version.
 ### My friend is [Rouholah](http://rhoseininaveh.github.io)
