@@ -10,6 +10,12 @@
 #### M.Sc Razi university (Pure Mathematics, Partial Differential Equations) 
 #### B.Sc College of Arts and Architecture (Architecture) 
 #### B.Sc Razi university (Pure Mathematics) 
+## Activities
+#### Editor in Chief and Managing Editor of the »Mathematical Sociology« Journal - Quarterly-  5 Number (2020- present)
+
+#### Presenting the idea and implementation of "Mathematics General-Specialized Monthly Lecture" by inviting about 50 professors from universities in Iran and abroad in various disciplines and examining the connections between mathematics and other disciplines. (2019-2022).
+
+#### Presenting the idea and implementation of "a series of general-specialized mathematics lectures with the aim of introducing young talents" by inviting elite students from all over the country. (2019-2022).
 
 
 
