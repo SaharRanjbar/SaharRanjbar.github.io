@@ -22,10 +22,10 @@
 #### Sahar Ranjbar, Ali Farajzadeh, Sufficient conditions for the existence of solution for (w-£)- higher order strongly variational inequality, Int. J. Nonlinear Anal. Appl. 15 (2024) 2, 233–238.
 #### Sahar Ranjbar and Ali Farajzadeh, On the conjecture of Schauder for set-valued mappings, Turkic World Mathematical Society Jurnal. (Accepted)
 ## Contact
-#### e-mail:
+### e-mail:
 ### saharranjbar717@gmail.com
 ### WhatsApp & Telegram:
-### +09370593348
+### +98 9370593348
 
 ### My friend is [Rouholah](http://rhoseininaveh.github.io)
 
