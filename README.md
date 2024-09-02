@@ -1,5 +1,5 @@
 # Hi, Welcome to my Webpage
-<img src="Sahar.jpg" width="480">
+<img src="Sahar.jpg" width="360">
 ### I am interested in mathematics and philosophy of mathematics.
 #### I’m currently learning Structuralism in the philosophy of mathematics.
 #### I’m also interested in the following topics: Functional Analysis, Equilibrium Problems and Fixed Point Theory.  
