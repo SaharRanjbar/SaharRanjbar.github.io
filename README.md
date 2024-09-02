@@ -24,8 +24,6 @@
 ## Contact
 ### e-mail:
 #### saharranjbar717@gmail.com
-### WhatsApp & Telegram:
-#### +98 9370593348
 
 ### My friend is [Rouholah](http://rhoseininaveh.github.io)
 
