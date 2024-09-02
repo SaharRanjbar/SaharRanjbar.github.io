@@ -21,7 +21,11 @@
 #### Sahar Ranjbar, Ali Farajzadeh, Jen-Chin Yao and Tao Zhang, Optimality conditions for generalized vector equilibrium problems in vector spaces, Journal of Nonlinear convex Analysis, Volume 22, Number 1, 133-147, 2021.
 #### Sahar Ranjbar, Ali Farajzadeh, Sufficient conditions for the existence of solution for (w-£)- higher order strongly variational inequality, Int. J. Nonlinear Anal. Appl. 15 (2024) 2, 233–238.
 #### Sahar Ranjbar and Ali Farajzadeh, On the conjecture of Schauder for set-valued mappings, Turkic World Mathematical Society Jurnal. (Accepted)
-
+## Contact
+#### e-mail:
+### saharranjbar717@gmail.com
+### WhatsApp & Telegram:
+### +09370593348
 
 ### My friend is [Rouholah](http://rhoseininaveh.github.io)
 
